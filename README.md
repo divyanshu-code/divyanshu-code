@@ -1,4 +1,4 @@
-# 💫 Hi , I'm Divyanshu
+# 💫 Hello , I'm Divyanshu
 **A passionate Frontend Developer | problem solver**
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything Else. 😊😊

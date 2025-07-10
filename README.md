@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything Else. 😊😊
 
-<br> a Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
+<br> A Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 <br> Frontend Engineering is the practice of building the user interface (UI) and user experience (UX) of web applications and websites. It focuses on everything that users interact with directly — the visuals, layout, responsiveness, and functionality in the browser.
 
 # Goals as a Frontend Engineer:

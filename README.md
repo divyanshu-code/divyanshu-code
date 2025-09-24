@@ -1,16 +1,17 @@
 # 💫 Hello , I'm Divyanshu
-**A passionate Frontend Developer | problem solver**
+**A passionate about Software Developer | problem solver**
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything Else. 😊😊
 
 <br> A Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
-<br> Frontend Engineering is the practice of building the user interface (UI) and user experience (UX) of web applications and websites. It focuses on everything that users interact with directly — the visuals, layout, responsiveness, and functionality in the browser.
+<br> A good software developer’s goals are to keep learning, keep building, and keep contributing — while growing from coding individual features → designing systems → leading innovation.
 
-# Goals as a Frontend Engineer:
-<br>👉 Build user-centric, visually appealing, and high-performance applications.
-<br>👉 Continuously learn and implement the latest trends in web development.
-<br>👉 Contribute to open-source and collaborate with the developer community.
-
+# Goals as a Software Developer:
+👉 Design and develop efficient, scalable, and reliable software solutions.
+👉 Continuously improve problem-solving and algorithmic thinking.
+👉 Write clean, maintainable, and well-documented code.
+👉 Stay updated with emerging technologies, tools, and best practices.
+👉 Contribute to open-source projects and share knowledge with the community.
 
 
 ## 🌐 Socials:

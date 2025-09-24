@@ -7,11 +7,11 @@ Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything El
 <br> A good software developer’s goals are to keep learning, keep building, and keep contributing — while growing from coding individual features → designing systems → leading innovation.
 
 # Goals as a Software Developer:
-👉 Design and develop efficient, scalable, and reliable software solutions.
-👉 Continuously improve problem-solving and algorithmic thinking.
-👉 Write clean, maintainable, and well-documented code.
-👉 Stay updated with emerging technologies, tools, and best practices.
-👉 Contribute to open-source projects and share knowledge with the community.
+-  Design and develop efficient, scalable, and reliable software solutions.
+- Continuously improve problem-solving and algorithmic thinking.
+- Write clean, maintainable, and well-documented code.
+- Stay updated with emerging technologies, tools, and best practices.
+- Contribute to open-source projects and share knowledge with the community.
 
 
 ## 🌐 Socials:

@@ -2,7 +2,6 @@
 **A passionate about Software Developer | problem solver**
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything Else. 😊😊
-
 <br> A Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 <br> A good software developer’s goals are to keep learning, keep building, and keep contributing — while growing from coding individual features → designing systems → leading innovation.
 

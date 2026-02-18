@@ -1,5 +1,5 @@
 # Hello , I'm Divyanshu
-**A passionate about Software Developer | problem solver**
+**A passionate about Software Development | problem solver**
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything Else.
 <br> A Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.

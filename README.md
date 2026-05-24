@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** For Project or Anything El
 <br> A Computer Science undergradute who writes code, breaks it, fixes it (usually), and occasionally ends up learning something new in the process.
 <br> A good software developer’s goals are to keep learning, keep building, and keep contributing — while growing from coding individual features → designing systems → leading innovation.
 
-## Goals as a Software Developer:
+## Goals as a Software Developer with Ai Integration:
 -  Design and develop efficient, scalable, and reliable software solutions.
 - Continuously improve problem-solving and algorithmic thinking.
 - Write clean, maintainable, and well-documented code.

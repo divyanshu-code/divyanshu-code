@@ -22,7 +22,8 @@ Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** for project collaborations
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-code&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-code&layout=compact&theme=tokyonight)
 
-
+***Watch a year of contributions get eaten, one commit at a time.***
+---
 ![snake gif](https://github.com/divyanshu-code/divyanshu-code/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -23,4 +23,6 @@ Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** for project collaborations
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-code&layout=compact&theme=tokyonight)
 
 
+![snake gif](https://github.com/divyanshu-code/divyanshu-code/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

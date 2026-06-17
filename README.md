@@ -1,5 +1,5 @@
 # Hi there, I'm Divyanshu 👋
-**Final-year CS Undergrad | Full-Stack Developer (MERN) | Exploring AI/LLM Integration**
+**Final-year CS Undergrad | Full-Stack Developer (MERN) | AI/LLM Integration**
 
 Email Me 👉 ✉️ **divyanshubisht5734@gmail.com** for project collaborations or anything else.
 <br> A Computer Science undergraduate who writes code, breaks it, fixes it, and occasionally ends up learning something new in the process.
